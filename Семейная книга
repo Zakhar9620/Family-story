@@ -1,0 +1,21 @@
+family-book/
+├── index.html
+├── css/
+│   ├── style.css
+│   ├── book.css
+│   ├── animations.css
+│   └── gallery.css
+├── js/
+│   ├── app.js
+│   ├── book.js
+│   ├── gallery.js
+│   ├── search.js
+│   ├── family-tree.js
+│   └── data-loader.js
+├── data/
+│   ├── family.json
+│   └── chapters.json
+├── images/
+├── videos/
+├── qr/
+└── assets/
