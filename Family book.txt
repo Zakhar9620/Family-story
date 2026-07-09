@@ -1,0 +1,13 @@
+family-book/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── chapters/
+│   ├── history.html
+│   ├── tree.html
+│   └── parents.html
+│
+└── images/
+    └── cover.jpg   (пока можно оставить пустой)
